@@ -60,3 +60,4 @@ plt.title('Number of People per job')
 plt.savefig('jobs-people.png')
 plt.show()
 
+print('a')
