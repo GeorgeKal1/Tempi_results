@@ -1,0 +1,41 @@
+{
+    "ages": {
+        "15": 1,
+        "19": 1,
+        "20": 6,
+        "21": 2,
+        "23": 9,
+        "24": 2,
+        "25": 2,
+        "27": 2,
+        "28": 2,
+        "29": 2,
+        "30": 1,
+        "34": 1,
+        "35": 1,
+        "36": 1,
+        "43": 1,
+        "49": 1,
+        "52": 1,
+        "54": 1,
+        "56": 2,
+        "67": 1
+    },
+    "jobs": {
+        "EPOP in the 1st Signal Corps Company": 1,
+        "Hellenic Train": 3,
+        "esthetician": 1,
+        "father of two children, had seven grandchildren": 1,
+        "firefighter": 1,
+        "football player AO Ypato": 1,
+        "geotechnical engineer": 1,
+        "graduate": 3,
+        "nurse": 1,
+        "retired police officer": 1,
+        "soprano": 1,
+        "student": 15,
+        "train driver": 4,
+        "train ticket inspector OSE": 1,
+        "unknown": 5
+    }
+}
